@@ -37,6 +37,18 @@ team join Cub_2 <player_name>
 team join Cub_2 <player_name>
 team join Cub_2 <player_name>
 
+# Etho Team 2
+team join Etho_1 <player_name>
+team join Etho_1 <player_name>
+team join Etho_1 <player_name>
+team join Etho_1 <player_name>
+
+# Etho Team 2
+team join Etho_2 <player_name>
+team join Etho_2 <player_name>
+team join Etho_2 <player_name>
+team join Etho_2 <player_name>
+
 # Impulse Team 1
 team join Impulse_1 <player_name>
 team join Impulse_1 <player_name>

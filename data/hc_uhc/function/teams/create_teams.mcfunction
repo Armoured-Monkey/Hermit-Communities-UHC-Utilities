@@ -13,6 +13,10 @@ team add Cleo_2 "Cleo Team 2"
 team add Cub_1 "Cub Team 1"
 team add Cub_2 "Cub Team 2"
 
+# Etho
+team add Etho_1 "Etho Team 1"
+team add Etho_2 "Etho Team 2"
+
 # Impulse
 team add Impulse_1 "Impulse Team 1"
 team add Impulse_2 "Impulse Team 2"
