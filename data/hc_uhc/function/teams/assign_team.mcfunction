@@ -1,6 +1,8 @@
 # Description: Assigns players to teams when they join the lobby.
 # Called by: Player join function tag
 
+scoreboard players set @a uhc.team -2
+
 # Beef Team 1
 team join Beef_1 <player_name>
 team join Beef_1 <player_name>
@@ -122,7 +124,7 @@ team join xB_2 <player_name>
 team join xB_2 <player_name>
 
 # Xisuma Team 1
-team join Xisuma_1 ArmouredMonkey
+team join Xisuma_1 <player_name>
 team join Xisuma_1 <player_name>
 team join Xisuma_1 <player_name>
 team join Xisuma_1 <player_name>
