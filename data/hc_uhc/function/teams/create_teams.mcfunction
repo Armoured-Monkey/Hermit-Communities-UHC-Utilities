@@ -25,6 +25,10 @@ team add Impulse_2 "Impulse Team 2"
 team add Joe_1 "Joe Team 1"
 team add Joe_2 "Joe Team 2"
 
+# Mumbo
+team add Mumbo_1 "Mumbo Team 1"
+team add Mumbo_2 "Mumbo Team 2"
+
 # Scar
 team add Scar_1 "Scar Team 1"
 team add Scar_2 "Scar Team 2"
