@@ -110,3 +110,5 @@ team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
+
+tag @a[team=!uhc.0] add uhc.player
