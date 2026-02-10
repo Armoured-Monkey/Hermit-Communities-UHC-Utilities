@@ -1,7 +1,10 @@
 # Description: Assigns players to teams when they join the lobby.
 # Called by: Player join function tag
 
-scoreboard players set @a uhc.team -2
+tp @s 0 253 0
+team join uhc.0 @s
+scoreboard players set @s uhc.team 0
+tag @s add uhc.joined
 
 # Beef Team 1
 team join Beef_1 <player_name>
@@ -111,4 +114,5 @@ team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 
-tag @a[team=!uhc.0] add uhc.player
+scoreboard players set @s[team=!uhc.0] uhc.team -2
+tag @s[team=!uhc.0] add uhc.player
