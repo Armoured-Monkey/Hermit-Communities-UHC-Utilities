@@ -2,12 +2,10 @@
 # Called by: Player join function tag
 
 tp @s 0 253 0
-team join uhc.0 @s
-scoreboard players set @s uhc.team 0
 tag @s add uhc.joined
 
 # Beef Team 1
-team join Beef_1 <player_name>
+team join Beef_1 ArmrdMnky
 team join Beef_1 <player_name>
 team join Beef_1 <player_name>
 team join Beef_1 <player_name>
@@ -114,5 +112,7 @@ team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 team join Zedaph_2 <player_name>
 
+team join uhc.0 @s[team=]
+scoreboard players set @s uhc.team 0
 scoreboard players set @s[team=!uhc.0] uhc.team -2
 tag @s[team=!uhc.0] add uhc.player
