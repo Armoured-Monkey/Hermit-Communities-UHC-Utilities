@@ -5,7 +5,7 @@ tp @s 0 253 0
 tag @s add uhc.joined
 
 # Beef Team 1
-team join Beef_1 ArmrdMnky
+team join Beef_1 <player_name>
 team join Beef_1 <player_name>
 team join Beef_1 <player_name>
 team join Beef_1 <player_name>
