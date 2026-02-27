@@ -28,17 +28,17 @@ team join Cub_2 <player_name>
 team join Cub_2 <player_name>
 team join Cub_2 <player_name>
 
-# Etho Team 2
-team join Etho_1 <player_name>
-team join Etho_1 <player_name>
-team join Etho_1 <player_name>
-team join Etho_1 <player_name>
+# Etho Team 1
+team join Etho_1 d2uo
+team join Etho_1 ThiccTom25
+team join Etho_1 17thLetterQ
+team join Etho_1 Vileoss
 
 # Etho Team 2
-team join Etho_2 <player_name>
-team join Etho_2 <player_name>
-team join Etho_2 <player_name>
-team join Etho_2 <player_name>
+team join Etho_2 Darkdragon902
+team join Etho_2 Mariti
+team join Etho_2 sacanagem_online
+team join Etho_2 symawi
 
 # Impulse Team 1
 team join Impulse_1 <player_name>
