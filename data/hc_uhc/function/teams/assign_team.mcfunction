@@ -53,16 +53,15 @@ team join Impulse_2 <player_name>
 team join Impulse_2 <player_name>
 
 # Joe Team 1
-team join Joe_1 <player_name>
-team join Joe_1 <player_name>
-team join Joe_1 <player_name>
-team join Joe_1 <player_name>
+team join Joe_1 salemoleander
+team join Joe_1 5uper_Stone
+team join Joe_1 Lady_Oolong
+team join Joe_1 AvivaKitty
 
 # Joe Team 2
-team join Joe_2 <player_name>
-team join Joe_2 <player_name>
-team join Joe_2 <player_name>
-team join Joe_2 <player_name>
+team join Joe_2 quilavabucket
+team join Joe_2 WoodlandWoodland
+team join Joe_2 QueenDarkLady
 
 # Mumbo Team 1
 team join Mumbo_1 <player_name>
@@ -101,16 +100,16 @@ team join Xisuma_2 <player_name>
 team join Xisuma_2 <player_name>
 
 # Zedaph Team 1
-team join Zedaph_1 <player_name>
-team join Zedaph_1 <player_name>
-team join Zedaph_1 <player_name>
-team join Zedaph_1 <player_name>
+team join Zedaph_1 The_Jade_Turtle
+team join Zedaph_1 Sixhill
+team join Zedaph_1 TheBatWalrus
+team join Zedaph_1 AddiVF
 
 # Zedaph Team 2
-team join Zedaph_2 <player_name>
-team join Zedaph_2 <player_name>
-team join Zedaph_2 <player_name>
-team join Zedaph_2 <player_name>
+team join Zedaph_2 FactorialRabbits
+team join Zedaph_2 Chloeleigh
+team join Zedaph_2 Tonestas
+team join Zedaph_2 JustJaemi
 
 team join uhc.0 @s[team=]
 scoreboard players set @s uhc.team 0
