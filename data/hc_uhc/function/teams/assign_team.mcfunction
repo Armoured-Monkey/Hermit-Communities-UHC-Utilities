@@ -75,6 +75,18 @@ team join Mumbo_2 <player_name>
 team join Mumbo_2 <player_name>
 team join Mumbo_2 <player_name>
 
+# Scar Team 1
+team join Scar_1 Mimi_Dev
+team join Scar_1 Plankwood
+team join Scar_1 XhyRobtic
+team join Scar_1 jiantings
+
+# Scar Team 2
+team join Scar_2 notchpoodles
+team join Scar_2 Ukoas
+team join Scar_2 nommaster_33
+team join Scar_2 Dollsmyname
+
 # Skizz Team 1
 team join Skizz_1 <player_name>
 team join Skizz_1 <player_name>
@@ -88,16 +100,16 @@ team join Skizz_2 <player_name>
 team join Skizz_2 <player_name>
 
 # Xisuma Team 1
-team join Xisuma_1 <player_name>
-team join Xisuma_1 <player_name>
-team join Xisuma_1 <player_name>
-team join Xisuma_1 <player_name>
+team join Xisuma_1 ChimeraDev
+team join Xisuma_1 Litlbear01
+team join Xisuma_1 NightFall3nn
+team join Xisuma_1 HeartGamer26
 
 # Xisuma Team 2
-team join Xisuma_2 <player_name>
-team join Xisuma_2 <player_name>
-team join Xisuma_2 <player_name>
-team join Xisuma_2 <player_name>
+team join Xisuma_2 Kozenbi
+team join Xisuma_2 UnwovenRainbow
+team join Xisuma_2 HillRatch
+team join Xisuma_2 BlueRaven768
 
 # Zedaph Team 1
 team join Zedaph_1 The_Jade_Turtle
