@@ -64,16 +64,16 @@ team join Joe_2 WoodlandWoodland
 team join Joe_2 QueenDarkLady
 
 # Mumbo Team 1
-team join Mumbo_1 <player_name>
-team join Mumbo_1 <player_name>
-team join Mumbo_1 <player_name>
-team join Mumbo_1 <player_name>
+team join Mumbo_1 3cooo
+team join Mumbo_1 BlueNinjaKitten
+team join Mumbo_1 DraggoPlayz
+team join Mumbo_1 lipopopo
 
 # Mumbo Team 2
-team join Mumbo_2 <player_name>
-team join Mumbo_2 <player_name>
-team join Mumbo_2 <player_name>
-team join Mumbo_2 <player_name>
+team join Mumbo_2 Erawr_403
+team join Mumbo_2 Craftasaurus
+team join Mumbo_2 biro774
+team join Mumbo_2 ZerosTulip
 
 # Scar Team 1
 team join Scar_1 Mimi_Dev
