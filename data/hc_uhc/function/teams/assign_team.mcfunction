@@ -4,30 +4,6 @@
 tp @s 0 253 0
 tag @s add uhc.joined
 
-# Beef Team 1
-team join Beef_1 <player_name>
-team join Beef_1 <player_name>
-team join Beef_1 <player_name>
-team join Beef_1 <player_name>
-
-# Beef Team 2
-team join Beef_2 <player_name>
-team join Beef_2 <player_name>
-team join Beef_2 <player_name>
-team join Beef_2 <player_name>
-
-# Cub Team 1
-team join Cub_1 <player_name>
-team join Cub_1 <player_name>
-team join Cub_1 <player_name>
-team join Cub_1 <player_name>
-
-# Cub Team 2
-team join Cub_2 <player_name>
-team join Cub_2 <player_name>
-team join Cub_2 <player_name>
-team join Cub_2 <player_name>
-
 # Etho Team 1
 team join Etho_1 d2uo
 team join Etho_1 ThiccTom25
@@ -39,18 +15,6 @@ team join Etho_2 Darkdragon902
 team join Etho_2 Mariti
 team join Etho_2 sacanagem_online
 team join Etho_2 symawi
-
-# Impulse Team 1
-team join Impulse_1 <player_name>
-team join Impulse_1 <player_name>
-team join Impulse_1 <player_name>
-team join Impulse_1 <player_name>
-
-# Impulse Team 2
-team join Impulse_2 <player_name>
-team join Impulse_2 <player_name>
-team join Impulse_2 <player_name>
-team join Impulse_2 <player_name>
 
 # Joe Team 1
 team join Joe_1 salemoleander
@@ -86,18 +50,6 @@ team join Scar_2 notchpoodles
 team join Scar_2 Ukoas
 team join Scar_2 nommaster_33
 team join Scar_2 Dollsmyname
-
-# Skizz Team 1
-team join Skizz_1 <player_name>
-team join Skizz_1 <player_name>
-team join Skizz_1 <player_name>
-team join Skizz_1 <player_name>
-
-# Skizz Team 2
-team join Skizz_2 <player_name>
-team join Skizz_2 <player_name>
-team join Skizz_2 <player_name>
-team join Skizz_2 <player_name>
 
 # Xisuma Team 1
 team join Xisuma_1 ChimeraDev
