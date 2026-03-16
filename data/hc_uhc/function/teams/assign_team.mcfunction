@@ -20,12 +20,12 @@ team join Etho_2 symawi
 team join Joe_1 salemoleander
 team join Joe_1 5uper_Stone
 team join Joe_1 Lady_Oolong
-team join Joe_1 AvivaKitty
+
 
 # Joe Team 2
 team join Joe_2 quilavabucket
 team join Joe_2 WoodlandWoodland
-team join Joe_2 QueenDarkLady
+team join Joe_2 AvivaKitty
 
 # Mumbo Team 1
 team join Mumbo_1 3cooo
